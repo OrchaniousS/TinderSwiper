@@ -1,7 +1,7 @@
 # tinder-auto-swiper
 In web and Off web tinder simple bot swiper
 
-Tinder 2020 Auto right swiper bot for javascript in browser
+Tinder 2020 Auto right swiper bot made in JavaScript/JS/javascript/Javascript
 
 How to use:
 1. Go to Tinder.com.
